@@ -8,7 +8,7 @@
 		</encoder>
 	</appender>
 	
-	<logger name="net.devstudy.ishop.service.impl.ProductServiceImpl" level="debug" />
+	<logger name="ProductServiceImpl" level="debug" />
 
 	<root level="info">
 		<appender-ref ref="STDOUT" />
